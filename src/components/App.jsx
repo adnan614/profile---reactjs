@@ -16,7 +16,7 @@ class App extends React.Component{
         <div className="App">
             
               <Profile />
-              < Bio name="farah" title="Graphices Designer"/>
+              < Bio name="Tasnim Farah" title="Graphices Designer"/>
               <div style={{ marginTop: '30px', marginBottom: '30px'}}>
                   
                   <Skills skillsA="html" skillsB="css" skillsC="graphices" />
